@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/patientform/static/css/main.4f8801e2.css",
-    "main.js": "/patientform/static/js/main.fe809f2d.js",
+    "main.js": "/patientform/static/js/main.35dc6252.js",
     "index.html": "/patientform/index.html",
     "main.4f8801e2.css.map": "/patientform/static/css/main.4f8801e2.css.map",
-    "main.fe809f2d.js.map": "/patientform/static/js/main.fe809f2d.js.map"
+    "main.35dc6252.js.map": "/patientform/static/js/main.35dc6252.js.map"
   },
   "entrypoints": [
     "static/css/main.4f8801e2.css",
-    "static/js/main.fe809f2d.js"
+    "static/js/main.35dc6252.js"
   ]
 }
