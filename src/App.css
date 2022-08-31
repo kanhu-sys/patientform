@@ -1,0 +1,82 @@
+textarea{
+  resize:none;
+  width: fit-content;
+  width:100%;
+  height:60px;
+  border:1px solid grey;
+  border-radius: 3px;
+}
+
+.otherBox-container{
+  position: relative;
+  height:100px;
+}
+
+.otherBox{
+  position:absolute;
+  top:40px;
+  padding:5px;
+  border: 1px solid grey;
+  color:gray;
+  border-radius: 5px;
+  font-size:12px;
+}
+
+table{
+  width:100%;
+}
+
+th,td{
+  text-align:center;
+}
+
+.addButton-container{
+  background-color: lightgrey !important;
+  height:2px;
+  display: flex;
+  align-items: center;
+}
+
+#addButton{
+  position: absolute;
+  left:50%;
+  transform:translate(-50%);
+}
+
+#addButton:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.button1,.button2{
+  display: inline-block;
+  background-color:blue;
+  text-align: center;
+  width:18%;
+  height:35px;
+  margin:5px;
+  border:none;
+  color:#f1f1f1;
+  border-radius: 3px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 18px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button1,.button2:hover{
+  opacity: 0.9;
+}
+
+.btn{
+  width:15%;
+  
+} 
+
+.submitBtn{
+  border:none;
+  background-color: transparent;
+}
